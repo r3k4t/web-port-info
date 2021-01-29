@@ -5,7 +5,7 @@
 <h6>Author : RKT</h6>
 
 
-Web-port-info is a Website Port Information Gathering Tool. 
+Web-port-info is a Website Port Information Gathering Tool.It can help to show any website port name,version,reason,extrainfo,cpe.
 
 ### Setup ###
 
